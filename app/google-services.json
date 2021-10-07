@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061473251342",
+    "project_id": "bbcnews-99260",
+    "storage_bucket": "bbcnews-99260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061473251342:android:715cae4abba2d190244c5f",
+        "android_client_info": {
+          "package_name": "com.example.bbc_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061473251342-k83s3jdnmnoedknipja0r3bg3s507rlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bbc_news_app",
+            "certificate_hash": "dfc778532c04737f2ea90cdabb06d1cf48028983"
+          }
+        },
+        {
+          "client_id": "1061473251342-927ustk1565jgtq9q0at40qbavj3naac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFAt_T3N27UiPBmp8BHLHlGHiJ3jMudU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061473251342-927ustk1565jgtq9q0at40qbavj3naac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
